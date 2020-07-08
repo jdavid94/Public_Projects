@@ -3,3 +3,5 @@ This file is a GIT test
 New line of text...
 
 Another new line... just in case
+
+This is a push test
