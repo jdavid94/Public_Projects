@@ -1,3 +1,5 @@
 This file is a GIT test
 
 New line of text...
+
+Another new line... just in case
